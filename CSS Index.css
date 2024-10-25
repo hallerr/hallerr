@@ -1,0 +1,50 @@
+/* Hintergrund und allgemeine Stile */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #003399; /* Königsblau */
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header-Stil */
+header {
+    padding: 2rem;
+}
+
+h1, h2 {
+    margin: 1rem 0;
+}
+
+p {
+    margin: 0.5rem 0 2rem;
+}
+
+/* Liste für To-Do und Ziele */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 0.5rem 0;
+}
+
+/* Footer mit LinkedIn-Verlinkung */
+footer {
+    background-color: #002080;
+    color: white;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
+
+/* Link-Stil */
+a {
+    color: #b0e0e6; /* Heller Blauton für Links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
